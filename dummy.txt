@@ -36,3 +36,4 @@ Commit for ContactUs
 Commit for Destination
 Commit for Footer
 Commit for Header
+Commit for Home
