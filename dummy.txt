@@ -3,3 +3,4 @@ Commit for AboutUs
 Commit for Admin
 Commit for ContactUs
 Commit for Destination
+Commit for Footer
