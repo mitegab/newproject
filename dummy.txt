@@ -13,3 +13,4 @@ Commit for html
 Commit for image
 Commit for img1.png
 Commit for resource
+Commit for .git
